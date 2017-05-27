@@ -1,0 +1,16 @@
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\LightsOut2.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\Java.Interop.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\Microsoft.CSharp.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\Mono.Android.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\mscorlib.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\OpenTK-1.0.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\System.Core.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\System.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\System.Xml.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\System.Xml.Linq.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\MonoGame.Framework.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\Newtonsoft.Json.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\Mono.CSharp.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\System.Runtime.Serialization.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\Mono.Security.dll
+D:\Dev\LightsOut2\LightsOut2\obj\Release\android\assets\System.Numerics.dll
